@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 900,
+    "height": 600,
+    "title": "Plastic Waste per Capita in Each Country",
+    "data": {
+      "url": "https://raw.githubusercontent.com/elouiseysj/fit3179_week10_homework/main/Plastic_Region.csv"
+    },
+    "selection": {
+        "highlight": {"type": "multi", "fields": ["Region"], "bind": "legend"}
+      },
+    "mark": "circle",
+    "encoding": {
+        "x": {
+            "field": "Country",
+            "type": "nominal",
+            "title": "Country"            
+        },
+        "y": {
+            "field": "Plastic_waste_per_capita(kg person day)",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "Region",
+            "type": "nominal"
+      },
+        "opacity": {
+        "condition": {"selection": "highlight", "value": 1.8},
+            "value": 0.2
+    } ,
+       
+      "tooltip": [
+        {"field": "Plastic_waste_per_capita(kg person day)", "type": "quantitative"},
+        {"field": "Country", "type": "nominal"},
+        {"field": "Region", "type": "nominal"}
+      ]
+    }
+  }
