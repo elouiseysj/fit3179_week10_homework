@@ -1,0 +1,143 @@
+Country,Code,Year,Per.capita.plastic.waste..kg.person.day.,Region
+Albania,ALB,2010,0.069,Europe & Central Asia
+Algeria,DZA,2010,0.144,Middle East & North Africa
+Angola,AGO,2010,0.062,Sub-Saharan Africa
+Antigua and Barbuda,ATG,2010,0.66,Latin America & Caribbean
+Argentina,ARG,2010,0.183,Latin America & Caribbean
+Aruba,ABW,2010,0.252,Latin America & Caribbean
+Australia,AUS,2010,0.112,East Asia & Pacific
+Bahrain,BHR,2010,0.132,Middle East & North Africa
+Bangladesh,BGD,2010,0.034,South Asia
+Barbados,BRB,2010,0.57,Latin America & Caribbean
+Belgium,BEL,2010,0.08,Europe & Central Asia
+Belize,BLZ,2010,0.172,Latin America & Caribbean
+Benin,BEN,2010,0.043,Sub-Saharan Africa
+Bermuda,BMU,2010,0.252,North America
+Bosnia and Herzegovina,BIH,2010,0.144,Europe & Central Asia
+Brazil,BRA,2010,0.165,Latin America & Caribbean
+Bulgaria,BGR,2010,0.154,Europe & Central Asia
+Cambodia,KHM,2010,0.066,East Asia & Pacific
+Cameroon,CMR,2010,0.046,Sub-Saharan Africa
+Canada,CAN,2010,0.093,North America
+Cayman Islands,CYM,2010,0.252,Latin America & Caribbean
+Channel Islands,OWID_CIS,2010,0.252,Europe & Central Asia
+Chile,CHL,2010,0.119,Latin America & Caribbean
+China,CHN,2010,0.121,East Asia & Pacific
+Colombia,COL,2010,0.144,Latin America & Caribbean
+Comoros,COM,2010,0.201,Sub-Saharan Africa
+Costa Rica,CRI,2010,0.258,Latin America & Caribbean
+Croatia,HRV,2010,0.252,Europe & Central Asia
+Cuba,CUB,2010,0.089,Latin America & Caribbean
+Curacao,CUW,2010,0.252,Latin America & Caribbean
+Cyprus,CYP,2010,0.248,Europe & Central Asia
+Denmark,DNK,2010,0.047,Europe & Central Asia
+Djibouti,DJI,2010,0.103,Middle East & North Africa
+Dominica,DMA,2010,0.149,Latin America & Caribbean
+Dominican Republic,DOM,2010,0.144,Latin America & Caribbean
+Ecuador,ECU,2010,0.147,Latin America & Caribbean
+El Salvador,SLV,2010,0.147,Latin America & Caribbean
+Equatorial Guinea,GNQ,2010,0.144,Sub-Saharan Africa
+Eritrea,ERI,2010,0.045,Sub-Saharan Africa
+Estonia,EST,2010,0.176,Europe & Central Asia
+Fiji,FJI,2010,0.189,East Asia & Pacific
+Finland,FIN,2010,0.234,Europe & Central Asia
+France,FRA,2010,0.192,Europe & Central Asia
+French Polynesia,PYF,2010,0.252,East Asia & Pacific
+Gabon,GAB,2010,0.054,Sub-Saharan Africa
+Georgia,GEO,2010,0.068,Europe & Central Asia
+Germany,DEU,2010,0.485,Europe & Central Asia
+Ghana,GHA,2010,0.04,Sub-Saharan Africa
+Greece,GRC,2010,0.2,Europe & Central Asia
+Greenland,GRL,2010,0.252,Europe & Central Asia
+Grenada,GRD,2010,0.325,Latin America & Caribbean
+Guam,GUM,2010,0.252,East Asia & Pacific
+Guatemala,GTM,2010,0.28,Latin America & Caribbean
+Guinea,GIN,2010,0.03,Sub-Saharan Africa
+Guinea-Bissau,GNB,2010,0.054,Sub-Saharan Africa
+Guyana,GUY,2010,0.586,Latin America & Caribbean
+Haiti,HTI,2010,0.09,Latin America & Caribbean
+Honduras,HND,2010,0.189,Latin America & Caribbean
+Iceland,ISL,2010,0.281,Europe & Central Asia
+India,IND,2010,0.01,South Asia
+Indonesia,IDN,2010,0.057,East Asia & Pacific
+Iraq,IRQ,2010,0.103,Middle East & North Africa
+Ireland,IRL,2010,0.43,Europe & Central Asia
+Israel,ISR,2010,0.297,Middle East & North Africa
+Italy,ITA,2010,0.134,Europe & Central Asia
+Jamaica,JAM,2010,0.034,Latin America & Caribbean
+Japan,JPN,2010,0.171,East Asia & Pacific
+Jordan,JOR,2010,0.144,Middle East & North Africa
+Kenya,KEN,2010,0.027,Sub-Saharan Africa
+Kiribati,KIR,2010,0.103,East Asia & Pacific
+Kuwait,KWT,2010,0.686,Middle East & North Africa
+Latvia,LVA,2010,0.124,Europe & Central Asia
+Lebanon,LBN,2010,0.094,Middle East & North Africa
+Liberia,LBR,2010,0.084,Sub-Saharan Africa
+Libya,LBY,2010,0.144,Middle East & North Africa
+Lithuania,LTU,2010,0.132,Europe & Central Asia
+Madagascar,MDG,2010,0.016,Sub-Saharan Africa
+Malaysia,MYS,2010,0.198,East Asia & Pacific
+Maldives,MDV,2010,0.322,South Asia
+Malta,MLT,2010,0.214,Middle East & North Africa
+Marshall Islands,MHL,2010,0.192,East Asia & Pacific
+Mauritania,MRT,2010,0.045,Sub-Saharan Africa
+Mauritius,MUS,2010,0.23,Sub-Saharan Africa
+Mexico,MEX,2010,0.087,Latin America & Caribbean
+Monaco,MCO,2010,0.252,Europe & Central Asia
+Montenegro,MNE,2010,0.144,Europe & Central Asia
+Morocco,MAR,2010,0.073,Middle East & North Africa
+Mozambique,MOZ,2010,0.015,Sub-Saharan Africa
+Myanmar,MMR,2010,0.075,East Asia & Pacific
+Namibia,NAM,2010,0.144,Sub-Saharan Africa
+Netherlands,NLD,2010,0.424,Europe & Central Asia
+New Caledonia,NCL,2010,0.252,East Asia & Pacific
+New Zealand,NZL,2010,0.331,East Asia & Pacific
+Nicaragua,NIC,2010,0.143,Latin America & Caribbean
+Nigeria,NGA,2010,0.103,Sub-Saharan Africa
+Northern Mariana Islands,MNP,2010,0.252,East Asia & Pacific
+Norway,NOR,2010,0.28,Europe & Central Asia
+Oman,OMN,2010,0.084,Middle East & North Africa
+Pakistan,PAK,2010,0.103,South Asia
+Palau,PLW,2010,0.144,East Asia & Pacific
+Panama,PAN,2010,0.145,Latin America & Caribbean
+Papua New Guinea,PNG,2010,0.103,East Asia & Pacific
+Peru,PER,2010,0.144,Latin America & Caribbean
+Philippines,PHL,2010,0.075,East Asia & Pacific
+Poland,POL,2010,0.097,Europe & Central Asia
+Portugal,PRT,2010,0.265,Europe & Central Asia
+Puerto Rico,PRI,2010,0.252,Latin America & Caribbean
+Qatar,QAT,2010,0.16,Middle East & North Africa
+Romania,ROU,2010,0.042,Europe & Central Asia
+Samoa,WSM,2010,0.103,East Asia & Pacific
+Sao Tome and Principe,STP,2010,0.103,Sub-Saharan Africa
+Saudi Arabia,SAU,2010,0.156,Middle East & North Africa
+Senegal,SEN,2010,0.103,Sub-Saharan Africa
+Seychelles,SYC,2010,0.358,Sub-Saharan Africa
+Sierra Leone,SLE,2010,0.041,Sub-Saharan Africa
+Singapore,SGP,2010,0.194,East Asia & Pacific
+Sint Maarten (Dutch part),SXM,2010,0.252,Latin America & Caribbean
+Slovenia,SVN,2010,0.145,Europe & Central Asia
+Solomon Islands,SLB,2010,0.103,East Asia & Pacific
+Somalia,SOM,2010,0.054,Sub-Saharan Africa
+South Africa,ZAF,2010,0.24,Sub-Saharan Africa
+Spain,ESP,2010,0.277,Europe & Central Asia
+Sri Lanka,LKA,2010,0.357,South Asia
+Sudan,SDN,2010,0.103,Sub-Saharan Africa
+Suriname,SUR,2010,0.163,Latin America & Caribbean
+Sweden,SWE,2010,0.048,Europe & Central Asia
+Tanzania,TZA,2010,0.023,Sub-Saharan Africa
+Thailand,THA,2010,0.144,East Asia & Pacific
+Togo,TGO,2010,0.057,Sub-Saharan Africa
+Tonga,TON,2010,0.223,East Asia & Pacific
+Trinidad and Tobago,TTO,2010,0.29,Latin America & Caribbean
+Tunisia,TUN,2010,0.144,Middle East & North Africa
+Turkey,TUR,2010,0.212,Europe & Central Asia
+Turks and Caicos Islands,TCA,2010,0.252,Latin America & Caribbean
+Tuvalu,TUV,2010,0.144,East Asia & Pacific
+Ukraine,UKR,2010,0.103,Europe & Central Asia
+United Arab Emirates,ARE,2010,0.199,Middle East & North Africa
+United Kingdom,GBR,2010,0.215,Europe & Central Asia
+United States,USA,2010,0.335,North America
+Uruguay,URY,2010,0.252,Latin America & Caribbean
+Vanuatu,VUT,2010,0.295,East Asia & Pacific
+Vietnam,VNM,2010,0.103,East Asia & Pacific
