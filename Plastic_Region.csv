@@ -1,4 +1,4 @@
-Country,Code,Year,Per.capita.plastic.waste..kg.person.day.,Region
+Country,Code,Year,Plastic_waste_per_capita(kg person day),Region
 Albania,ALB,2010,0.069,Europe & Central Asia
 Algeria,DZA,2010,0.144,Middle East & North Africa
 Angola,AGO,2010,0.062,Sub-Saharan Africa
